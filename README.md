@@ -26,7 +26,7 @@ It's also necessary a configuration file (config.yaml) with the the following pa
 - end_position: last genomic position of the gene
 - length_protein: length in amino acids of the protein
 - coverage_position: minimum number of reads covering a specific position
-- coverage_protein: Minimum percentage of positions covered
+- coverage_protein: minimum percentage of positions covered
 
 
 Input:
