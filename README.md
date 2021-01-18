@@ -20,7 +20,7 @@ For the execution of the pipeline, it is necessary to create four directories:
 - samples: is this directory specified the Ids of samples in the samples.txt file
 - data: fastq files input
 
-It's also necessary a configuration file (config.yaml) withe the following parameters:
+It's also necessary a configuration file (config.yaml) with the the following parameters:
 
 - start_position: first genomic position of the gene
 - end_position: last genomic position of the gene
