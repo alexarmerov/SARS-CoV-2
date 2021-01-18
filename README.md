@@ -13,7 +13,7 @@ Required Software:
 
 In the run.sh and run.codon.sh scripts, please specify the path to the libraries and VirVarSeq scripts
 
-For the execution of the pipeline, it is necessary to create four directories:
+For the execution of the pipeline, it's necessary to create four directories:
 
 - genomes: SARS-CoV-2 genome sequences (CoV2.fasta)
 - scripts: scripts used by the pipeline
