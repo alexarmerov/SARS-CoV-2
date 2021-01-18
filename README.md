@@ -15,7 +15,7 @@ In the run.sh and run.codon.sh scripts, please specify the path to the libraries
 
 For the execution of the pipeline, it's necessary to create four directories:
 
-- genomes: SARS-CoV-2 genome sequences (CoV2.fasta)
+- genomes: SARS-CoV-2 genome sequence (CoV2.fasta)
 - scripts: scripts used by the pipeline
 - samples: is this directory specified the Ids of samples in the samples.txt file
 - data: fastq files input
