@@ -84,7 +84,7 @@ Please modify the parameters that are specific to the system on which the pipeli
   
 #### 2. Reference genome
 <p align="justify">
-The reference genome is located in the genomes subdirectory. This is a FASTA file. If the user wants to use another viral genome, it is necessary to place the FASTA file in this subdirectory and modify the reference_genome parameter in the config.yaml file.
+The SARS-CoV-2 reference genome is located in the genomes subdirectory. This is a FASTA file. If the user wants to use another viral genome, it is necessary to place the FASTA file in this subdirectory and modify the reference_genome parameter in the config.yaml file.
 </p>
   
 #### 3. Data
