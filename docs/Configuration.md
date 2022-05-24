@@ -89,11 +89,13 @@ The reference genome is located in the genomes subdirectory. This is a FASTA fil
   
 #### 3. Data
 <p align="justify">
-The input files to the pipeline are located in the data subdirectory. These are Sequence Read Archive (SRA) files, a format for high throughput sequencing data. The limit of the number of samples that can be analyzed is determined by the computational resources of the user. Before running the pipeline please uncompress the test data with the following command:
+The input files to the pipeline are located in the data subdirectory. These are Sequence Read Archive (SRA) files, a format for high throughput sequencing data. The limit of the number of samples that can be analyzed is determined by the computational resources of the user. Before running the pipeline please uncompress the test data with the following commands:
  </p>
 
 ```
-unzip data/SRR13178852.sra.zip
+
+tar -xvf data/SRR13178852.tgz  --directory data
+rm data/SRR13178852.tgz
 
 ```
 
