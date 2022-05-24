@@ -109,8 +109,7 @@ An example of the content of the samples.txt file is presented below:
 
 ```
 cat samples/samples.txt
-SRR11494491
-SRR13178795
+SRR13178852
 
 ```
 
