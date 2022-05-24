@@ -46,7 +46,7 @@ nm_threads: 4
 reference_genome: CoV2.fasta
 
 ```
-##### - Path to VirVarSeq scripts. Please, replace PathVirVarSeq with the path to the VirVarSeq scripts on your system.
+##### - Path to VirVarSeq scripts. Please, replace PathVirVarSeq with the path to the VirVarSeq directory on your system.
 ```
 path_virvarseq: /PathVirVarSeq/VirVarSeq
 
