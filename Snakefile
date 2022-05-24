@@ -570,7 +570,8 @@ rule clean:
     input:
       "report.reads.txt"
     output:
-      "Gene_"+str(config["start_position"])+"_"+str(config["end_position"])+"/report.reads.txt"		 params:
+      "Gene_"+str(config["start_position"])+"_"+str(config["end_position"])+"/report.reads.txt"
+    params:
       dir = "Gene_"+str(config["start_position"])+"_"+str(config["end_position"])
     shell:"""
 
