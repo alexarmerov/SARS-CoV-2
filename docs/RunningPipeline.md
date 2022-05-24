@@ -30,7 +30,7 @@ If the user wants to use more or less than 4 CPUs to run the pipeline, the user 
 </p>
 
 <p align="justify">
-You can test the pipeline with the SRA files found in the data subdirectory (SRR11494491.sra and SRR13178795.sra ) or you could try it with your own SARS-CopV-2 SRA files.
+You can test the pipeline with the SRA files found in the data subdirectory (SRR11494491.sra and SRR13178795.sra ) or you could try it with your own SARS-CoV-2 SRA files.
 </p>
   
 <p align="justify">
