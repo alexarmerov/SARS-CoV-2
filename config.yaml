@@ -1,0 +1,18 @@
+# Initial genomic position of the gene
+start_position: 21563
+# Last position of the gene in the genome
+end_position: 25384
+# Protein length
+length_protein: 1274
+# Minimum number of reads covering a position. Positions with a number of reads lower than this threshold are not considered in the analysis.
+coverage_position: 30
+# Minimum protein coverage (proportion). Sequences with a ratio of covered positions less than this threshold are discarded.
+coverage_protein: 0.9
+# Number of threads available for workflow parallelization.
+nm_threads: 4
+# Genome reference in FASTA format
+reference_genome: CoV2.fasta
+# Path to virvarseq scripts. Replace PathVirVarSeq with the path to VirVarSeq scripts on your system.
+path_virvarseq: /PathVirVarSeq/VirVarSeq
+# Adapters in FASTA format for trimmomatic trimming
+adapters: genomes/adapters.fasta
