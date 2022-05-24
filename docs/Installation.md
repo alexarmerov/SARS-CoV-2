@@ -32,8 +32,15 @@ Change directory
 cd SARS-CoV-2
 
 ```
+<p align="justify">
+At this point, you could activate the scripts execution permissions with the following command:
+</p>
 
+```
+chmod +x scripts/*
 
+```
+ 
 2. Installation of software requires conda. Installation of conda is described [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Once installed conda, run the following commands: 
 
 - Activate conda base environment
