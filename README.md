@@ -2,7 +2,7 @@
 ## Introduction
 
 <p align="justify">
-SARS-CoV-2 is a new pathogen with devastating consequences globally. The convergence of new sequencing technologies and bioinformatic tools have made it possible to continuously monitor the diversity of this virus. However, this monitoring has focused on variants of consensus sequences. Less attention has been given to variants that occur at a low frequency, called intra-host single-nucleotide variants (iSNVs). We developed a bioinformatics pipeline for the identification of iSNVs in next-generation sequencing (NGS) data.
+SARS-CoV-2 is a new pathogen with devastating consequences globally. The convergence of new sequencing technologies and bioinformatics tools have made it possible to continuously monitor the diversity of this virus. However, this monitoring has focused on consensus sequences variants. Less attention has been given to variants that occur at a low frequency, called intra-host single-nucleotide variants (iSNVs). We developed a bioinformatics pipeline for the identification of iSNVs in next-generation sequencing (NGS) data.
 </p>
  
 <p align="justify">
