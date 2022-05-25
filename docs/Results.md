@@ -108,7 +108,7 @@ Fastqc files describing the quality of clean reads.
 <p align="justify"> 
 - File: SRR11494491_consensus.fa, subdirectory: Gene_21563_25384/consensus
 
-Consensus sequence (fasta file).
+Consensus sequence (FASTA file).
 </p>
 <p align="justify"> 
 - File:SRR11494491.WthDuplicates.bam, subdirectory: Gene_21563_25384/alignmentConsensus
