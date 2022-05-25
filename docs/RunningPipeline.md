@@ -2,7 +2,7 @@
 # Running the pipeline
 
 <p align="justify">
-Before running the pipeline please check the four points described in the configuration section. For the execution of the pipeline, the iSNVs environment must be activated:
+Before running the pipeline, please check the four points described in the configuration section. For the execution of the pipeline, the iSNVs environment must be activated:
 </p>
 
 
