@@ -91,7 +91,8 @@ These results allow visualizing minority variants and some could be used in down
 
 <p align="justify">
 1. Quality control
-File: SRR11494491_1.clean_fastqc.html, subdirectory: Gene_21563_25384/QC
+
+ File: SRR11494491_1.clean_fastqc.html, subdirectory: Gene_21563_25384/QC
 
 Fastqc files describing the quality of clean reads.
 </p>
