@@ -78,7 +78,7 @@ conda install -c bioconda fastqc
 
 ```
 
-3. An important step is the installation of the VirVarSeq toolkit. ViVarSeq can be retrieved from [here](https://sourceforge.net/projects/virtools/?source=directory). Then follow the instructions for installation.
+3. An important step is the installation of the VirVarSeq toolkit. VirVarSeq can be retrieved from [here](https://sourceforge.net/projects/virtools/?source=directory). Then follow the instructions for installation.
 
 
 #### The following is a list of the main bioinformatics software installed in the iSNVs environment.
