@@ -89,7 +89,7 @@ The SARS-CoV-2 reference genome is located in the genomes subdirectory. This is 
   
 #### 3. Data
 <p align="justify">
-The input files to the pipeline are located in the data subdirectory. These are Sequence Read Archive (SRA) files, a format for high throughput sequencing data. The limit of the number of samples that can be analyzed is determined by the computational resources of the user. Before running the pipeline please uncompress the test data with the following commands:
+The input files to the pipeline are located in the data subdirectory. These are Sequence Read Archive (SRA) files, a format for high throughput sequencing data. The limit of the number of samples that can be analyzed is determined by the computational resources of the user. Before running the pipeline, please uncompress the test data with the following commands:
  </p>
 
 ```
