@@ -31,7 +31,7 @@ The pipeline was developed with Snakemake, which allows analysis scalability and
 
 ## Getting Help
 
-If you identify a bug or other problem with the pipeline, please file an [issue](../../../../alexarmerov/SARS-CoV-2/issues)
+If you identify a bug or other kind of problem with the pipeline, please open an [issue](../../../../alexarmerov/SARS-CoV-2/issues)
  
 ## Citations
 
